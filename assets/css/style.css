@@ -1,0 +1,298 @@
+.nav-item {
+	color: rgb(82, 80, 80);
+}
+
+.navbar-brand {
+	padding-left: 0;
+}
+
+@media (max-width: 768px) {
+	.navbar-brand {
+		padding-left: 20px!important;
+	}
+	h2,
+	h3,
+	h4 {
+		font-size: medium;
+	}
+	.img-thumbnail {
+		width: -webkit-fill-available!important;
+		padding-top: 60px;
+	}
+}
+
+body {
+  background-color: rgb(223, 173, 247);
+}
+.img-thumbnail {
+	background-image: radial-gradient(rgb(182, 118, 182), rgb(206, 190, 233));
+	position: absolute;
+	height: 350px;
+	margin-top: 200px;
+	border-style: solid;
+	border-width: 5px;
+	width: inherit;
+}
+
+.img-thumbnail h2 {
+	margin-left: 30px;
+	font-family: 'Domine', serif;
+}
+
+.img-thumbnail h3 {
+	text-align: left;
+	margin-left: 30px;
+	max-width: 500px
+}
+
+.img-thumbnail h4 {
+	margin-left: 30px;
+	color: royalblue;
+}
+
+button {
+	background-color: grey;
+	color: white;
+	font-family: 'Domine', serif;
+}
+
+.btn-primary {
+	margin-left: 30px;
+}
+
+
+/* FIRST PHOTO BANNER */
+
+.photo-pannel {
+	background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-simple-and-beautiful-romantic-light-effect-purple-gradient-background-image_198684.jpg);
+	background-size: cover;
+	height: 350px;
+	padding-top: 20px;
+	margin-top: 50px;
+}
+
+.touch {
+	padding-top: 20px;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	color: rgb(66, 24, 71);
+}
+
+.touch h1 {
+	margin-top: 50px;
+}
+
+
+/* BLANK BANNER  */
+
+.white-pannel {
+	background-size: cover;
+	min-height: 300px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.white-pannel .row {
+	margin: auto;
+}
+
+.white-pannel h4 {
+	color: rgb(66, 24, 71);
+	margin-bottom: 0;
+	font-size: 20px;
+	font-family: 'Domine', serif;
+}
+
+.info {
+	padding-top: 200px;
+}
+
+.info h4 {
+	margin-bottom: 10px;
+	font-family: 'Domine', serif"
+
+}
+
+.white-pannel span {
+	color: rgb(65, 42, 197);
+}
+
+
+/* 3 COLUMS & BANNER  */
+
+.backgroundPic {
+	background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-simple-and-beautiful-romantic-light-effect-purple-gradient-background-image_198684.jpg);
+	background-size: cover;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.banner {
+	padding-top: 45px;
+	padding-bottom: 45px;
+	text-align: center;
+	font-size: 17px;
+}
+
+.banner h2 {
+	color: rgb(66, 24, 71);
+	font-family: 'Dancing Script', cursive;
+}
+
+.banner p {
+	margin-bottom: 30px;
+	color: rgb(66, 24, 71);
+	font-family: 'Domine', serif;
+}
+
+.banner i {
+	font-size: 40px;
+	color: rgb(66, 24, 71);
+}
+
+
+/* CARD SECTION */
+
+.prov h4 {
+	padding-left: 0;
+	margin-bottom: 50px;
+	margin-top: 20px;
+	color: rgb(66, 24, 71);
+	font-family: 'Domine', serif;
+}
+
+.prov h3 {
+	color: rgb(66, 24, 71);
+	margin-top: 50px;
+	font-family: 'Dancing Script', cursive;
+	font-size: 35px;
+}
+
+.prov h1 {
+	font-family: 'Dancing Script', cursive;
+}
+
+.prov p {
+	font-family: 'Domine', serif;
+	font-size: 20px;
+}
+
+.flip-card {
+	background-color: transparent;
+	height: 500px;
+	perspective: 1000px;
+	/* 3D effect */
+}
+
+.imgStyle {
+	max-width: 100%;
+	max-height: 500px;
+}
+
+
+/* To position the front and back side */
+
+.flip-card-inner {
+	position: relative;
+	text-align: center;
+	transition: transform 0.8s;
+	transform-style: preserve-3d;
+}
+
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+
+.flip-card:hover .flip-card-inner {
+	transform: rotateY(180deg);
+}
+
+
+/* Position the front and back side */
+
+.flip-card-front,
+.flip-card-back {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	backface-visibility: hidden;
+}
+
+
+/* Style the front side (fallback if image is missing) */
+
+.flip-card-front {
+	background-color: #bbb;
+	color: black;
+}
+
+
+/* Style the back side */
+
+.flip-card-back {
+	color: rgb(66, 24, 71);
+	transform: rotateY(180deg);
+	margin-top: 35%;
+}
+
+
+/* TEAM SECTION  */
+
+.team {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.team h2 {
+	color: rgb(66, 24, 71);
+	font-size: 160%;
+	font-family: 'Domine', serif;
+}
+
+.team h4 {
+	margin-bottom: 50px;
+	color: rgb(78, 24, 88);
+	font-family: 'Domine', serif;
+}
+
+.team h3 {
+	margin-top: 40px;
+	color: rgb(66, 24, 71);
+	margin-top: 50px;
+	font-family: 'Dancing Script', cursive;
+	font-size: 35px
+}
+
+.team .col-md-4 a {
+	color: rgb(82, 80, 80);
+}
+
+.team .col-md-4 p {
+	font-size: 18px;
+}
+
+
+/* FOOTER  */
+
+.footer-bottom {
+	height: auto;
+	background-color: #222222;
+	color: #9D9D9D;
+}
+
+.footer-bottom p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.footer-bottom .col-lg-6 li {
+	margin-top: 15px;
+}
+
+.footer-bottom ul {
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.footer-bottom a {
+	color: #9d9d9d;
+}

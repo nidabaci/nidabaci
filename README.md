@@ -1,7 +1,7 @@
 ### Hello there, I'm Jonida - aka Nida 👋
 
 ## Happy to see you here!!
-![Nids Banner Image](./girl.jpg)
+![Nids Banner Image](./mybanner.jpg)
 - ✨ I’m 22, a web developement enthusiast and I am currently learning everything I can
 - 🤍 I’m looking to collaborate with other content creators
 - ✨ 2022 Goals: Contribute more to Open Source projects and get better at JS

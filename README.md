@@ -1,7 +1,7 @@
 ### Hello there, I'm Jonida - aka Nida 👋
 
 ## Happy to see you here!!
-
+![Nids Banner Image](https://www.vecteezy.com/free-vector/female-programmer")
 - ✨ I’m 22, a web developement enthusiast and I am currently learning everything I can
 - 🤍 I’m looking to collaborate with other content creators
 - ✨ 2022 Goals: Contribute more to Open Source projects and get better at JS
@@ -18,7 +18,7 @@
 
 ### Let's play together:
 
-[<img align="left" alt="cssbattle" width="90px" src="https://cssbattle.dev/images/logo.svg" />][cssbattle] 
+[<img align="left" alt="cssbattle" width="100px" src="https://cssbattle.dev/images/logo.svg" />][cssbattle] 
 <br />
 
 ### Languages and Tools:

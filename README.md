@@ -27,7 +27,8 @@
 [<img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />][css]
 [<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/29753/javascript.svg" />][js]
 [<img align="left" alt="Sass" width="35px" src="https://www.svgrepo.com/show/354310/sass.svg" />][sass]
-[<img align="left" alt="BootStrap" width="30px" src="https://www.svgrepo.com/show/353498/bootstrap.svg" />][bs] 
+[<img align="left" alt="WordPress" width="30px" src="https://www.svgrepo.com/show/353498/bootstrap.svg" />][wp] 
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/183654/wordpress.svg" />][vs]
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/373623/git.svg" />][git]
 [<img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />][github]
@@ -49,5 +50,6 @@
 [github]:https://github.com/nidabaci
 [react]: https://reactjs.org/
 [cssbattle]:https://cssbattle.dev/player/nidabaci
+[wp]:https://wordpress.com/
 
 <!-- a comment -->

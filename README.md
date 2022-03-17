@@ -4,7 +4,7 @@
 ![Nids Banner Image](./mybanner.jpg)
 - ✨ I’m 22, a web developement enthusiast and I am currently learning everything I can
 - 🤍 I’m looking to collaborate with other content creators
-- ✨ 2022 Goals: Contribute more to Open Source projects and get better at JS
+- ✨ My 2022 Goals: Contribute more to Open Source projects and get better at JS
 - 🤍 Fun fact: I love puzzles, video games and good music
 <br /><br />
 

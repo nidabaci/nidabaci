@@ -6,6 +6,8 @@
 - 🤍 I’m looking to collaborate with other content creators
 - ✨ My 2022 Goals: Contribute more to Open Source projects and get better at JS
 - 🤍 Fun fact: I love puzzles, video games and good music
+__________________________
+ 🐱‍💻Don't judge my commit map, im working with azure these months
 <br /><br />
 
 ### Connect with me: 

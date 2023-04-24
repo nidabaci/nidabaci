@@ -2,12 +2,12 @@
 
 ## Happy to see you here!!
 ![Nids Banner Image](./mybanner.jpg)
-- ✨ I’m 22, a web developement enthusiast and I am currently learning everything I can
+- ✨ I’m 23, a web developement enthusiast and I am currently learning everything I can in React Js
 - 🤍 I’m looking to collaborate with other content creators
-- ✨ My 2022 Goals: Contribute more to Open Source projects and get better at JS
+- ✨ My 2023 Goals: Working on React Js and landing a better job
 - 🤍 Fun fact: I love puzzles, video games and good music
 __________________________
- 🐱‍💻Don't judge my commit map, im working with azure these months
+ 🐱‍💻Don't judge my commit map, im working with azure/ gitlab these months
 <br /><br />
 
 ### Connect with me: 

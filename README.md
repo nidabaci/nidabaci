@@ -1,19 +1,18 @@
-### Hello there, I'm Jonida - aka Nida 👋
+### Hello there, I'm Jonida 👋
 
 ## Happy to see you here!!
 ![Nids Banner Image](./mybanner.jpg)
-- ✨ I’m 23, a web developement enthusiast and I am currently learning everything I can in React Js
+- ✨ I’m 25, a web developement enthusiast and I am currently learning everything I can in React Js
 - 🤍 I’m looking to collaborate with other content creators
-- ✨ My 2023 Goals: Working on React Js and landing a better job
+- ✨ My 2025 Goals: Saving enough to buy a house
 - 🤍 Fun fact: I love puzzles, video games and good music
 __________________________
- 🐱‍💻Don't judge my commit map, im working with azure/ gitlab these months
+ 🐱‍💻Don't judge my commit map, i beg you
 <br /><br />
 
 ### Connect with me: 
 
 
-[<img align="left" alt="mytwt | Twitter" width="25" src="https://www.svgrepo.com/show/126780/twitter.svg" />][twitter] 
 [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
 
 <br /><br /> 
